@@ -14,6 +14,8 @@ Download or clone this repo.
 
 Download the linux files and the windows files from ArmusWiki and place them in the appropriate folders.
 
+Create a project in the "projects" folder
+
 Change the variable "NAME" in the makefile and run make.
 
-NAME should be the name of your main cpp file without the extension (which should be ".cpp").
+NAME should be the path to your main cpp file without the extension (which should be ".cpp").
