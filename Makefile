@@ -1,6 +1,6 @@
 
 # Change project name here
-NAME=test
+NAME=projects/test
 CFILE=$(NAME).cpp
 PWD=$(shell pwd)
 
