@@ -1,5 +1,4 @@
-# armus-linux-wa
-Armus Linux Work Around.
+# Armus Linux Work Around.
 
 This thing uses a combination of: 
  * the compiler (and linker) from the linux toolchain given on ArmusWiki
@@ -10,12 +9,20 @@ I may fix it someday.
 
 # How to use
 
-Download or clone this repo.
+* Download or clone this repo.
 
-Download the linux files and the windows files from ArmusWiki and place them in the appropriate folders.
+* Download the linux files and the windows files from ArmusWiki and place them in the appropriate folders.
 
-Create a project in the "projects" folder
+* Create a project in the "projects" folder.
 
-Change the variable "NAME" in the makefile and run make.
+* Follow the example.
 
-NAME should be the path to your main cpp file without the extension (which should be ".cpp").
+# Example
+
+look at the example Makefile and project here:
+
+https://github.com/antoineMoPa/armus-linux-wa/tree/master/projects/test
+
+# Creating a new project
+
+Just copy the example [Makefile](https://github.com/antoineMoPa/armus-linux-wa/blob/master/projects/test/Makefile) and write some code in /projects/your-new-folder. Dont forget to change the project name in the Makefile!
