@@ -1,0 +1,5 @@
+Just put the toolchain folder (from the windows version) here with the name toolchain
+
+AND:
+
+the library with the name "librairie" (note the french spelling)
