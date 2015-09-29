@@ -28,3 +28,4 @@ tramp
 windows-files/*/**
 linux-files/*/**
 archives/**
+projects/**
