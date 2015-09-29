@@ -1,5 +1,5 @@
 
-# Changer le nom du projet ici
+# Change project name here
 NAME=test
 CFILE=$(NAME).cpp
 PWD=$(shell pwd)
